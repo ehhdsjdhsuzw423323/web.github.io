@@ -264,7 +264,7 @@ p {
 
 @media only screen and (max-width: 355px) {
     .center .outubybig {
-        font-size: 4.20rem;
+        font-size: 3.20rem;
     }
     .wrap {
         transform: translateX(21px);
@@ -279,7 +279,7 @@ p {
         display: block;
         float: left;
         text-align: center;
-        font-size: 20px;
+        font-size: 10px;
         margin-bottom: 10px;
         /*transform: translateX(15px);*/
         padding: .6rem .5rem .7rem .5rem;
